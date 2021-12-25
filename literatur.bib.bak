@@ -1,0 +1,147 @@
+% Encoding: UTF-8
+
+@Article{ZfkD17.12.2019,
+  author = {Zentrum für Krebsregisterdaten},
+  title  = {Krebs des Zentralen Nervensystems},
+  year   = {17.12.2019},
+  file   = {:Krebsregisterdaten17.12.2019a - Krebs Des Zentralen Nervensystems.pdf:PDF},
+  groups = {Hirntumor, Hirntumore},
+  url    = {https://www.krebsdaten.de/Krebs/DE/Content/Publikationen/Krebs_in_Deutschland/kid_2019/kid_2019_c70_c72_zns.pdf;jsessionid=841B25ED4E3E0698F1CC973B1F4CF857.1_cid298?__blob=publicationFile},
+}
+
+@Article{yiallouros2011hochmaligne,
+  author = {Yiallouros, Dipl-Biol Maria and Tallen, Gesche},
+  title  = {Hochmaligne Gliome},
+  year   = {2011},
+  groups = {Hirntumor, Hirntumore},
+  url    = {https://www.kinderkrebsinfo.de/sites/kinderkrebsinfo/content/e9031/e10566/e25383/e28824/hochmaligneGliome_17092020_ger.pdf},
+}
+
+@Article{Hofer03.2019,
+  author = {Silvia Hofer, Lars Bullinger, Judith Dierlamm, Anca-Ligia Grosu, Peter Hau, Jörg Hense, Tobias Pflugshaupt, Matthias Preusser, Martin Proescholdt, Tobias Pukrop, Elisabeth Jane Rushing, Marianne Sinn, Bernhard Wörmann},
+  title  = {Gliome im Erwachsenenalter},
+  year   = {03.2019},
+  file   = {:gliome-im-erwachsenenalter.pdf:PDF},
+  groups = {Hirntumor, Hirntumore},
+}
+
+@Article{Glas_2020,
+  author    = {Martin Glas and Björn Scheffler and Sied Kebir},
+  title     = {Gliome},
+  year      = {2020},
+  pages     = {997--1010},
+  booktitle = {Klinische Neurologie},
+  doi       = {https://doi.org/10.1007/978-3-662-60676-6_86},
+  groups    = {Hirntumor, Hirntumore},
+  publisher = {Springer Berlin Heidelberg},
+  url       = {https://link.springer.com/content/pdf/10.1007/978-3-662-60676-6_86.pdf},
+}
+
+@Article{Weller2016,
+  author    = {Weller, Michael; Reifenberger, Guido; Tonn, Jörg C.; Wick, Wolfgang},
+  journal   = {Deutsches Aerzteblatt Online},
+  title     = {Gliome: Aktuelle Entwicklungen in der Diagnostik und Therapie},
+  year      = {2016},
+  issn      = {1866-0452},
+  doi       = {10.3238/PersOnko/2016.02.12.04},
+  groups    = {Hirntumor, Hirntumore},
+  publisher = {Deutscher Aerzte-Verlag},
+}
+
+@InBook{Frank1995,
+  author    = {Frank, J.},
+  editor    = {Wieler, H. J.},
+  pages     = {3--10},
+  publisher = {Springer Berlin Heidelberg},
+  title     = {Bildrekonstruktion bei der Single-Photon-Emissions-Computertomographie (SPECT)},
+  year      = {1995},
+  address   = {Berlin, Heidelberg},
+  isbn      = {978-3-642-79222-9},
+  abstract  = {Die planare Szintigraphie mit der von Hal Anger 1958 entwickelten Gammakamera erbringt aufgrund ihrer Eigenschaft als Projektionsaufnahmeger{\"a}t nur eine Aufsummation der Aktivit{\"a}tsverteilung des K{\"o}rperquerschnitts. Diese Anger-Kamera besteht aus einem gro{\ss}fl{\"a}chigen Kristall (NaJ), diversen Photomultipliern Mit Entsprechender Elektronik zur Lokalisation der Lichtblitze und dem Kollimator zur Abbildung der Aktivit{\"a}tsverteilung auf dem Kristall. Planare Darstellungen enthalten nur begrenzte Informationen {\"u}ber die Tats{\"a}chliche Verteilung des Radionuklids und Leiden dar{\"u}ber hinaus unter geringem bildkontrast, weil die Aktivit{\"a}t im interessierenden Organ von Hintergrundaktivit{\"a}t {\"u}berlagert wird [1].},
+  booktitle = {Single-Photon-Emissions-Computertomographie (SPECT) des Gehirns},
+  doi       = {10.1007/978-3-642-79222-9_1},
+  groups    = {Meine Literatur, SPECT Bildgebendeverfahren},
+  url       = {https://doi.org/10.1007/978-3-642-79222-9_1},
+}
+
+@Article{D_ssel_2016,
+  author    = {Olaf Dössel},
+  title     = {Bildgebende Verfahren in der Medizin},
+  year      = {2016},
+  doi       = {https://doi.org/10.1007/978-3-642-54407-1},
+  groups    = {Bildgebende Verfahren, SPECT Bildgebendeverfahren},
+  publisher = {Springer Berlin Heidelberg},
+  url       = {https://link.springer.com/content/pdf/10.1007/978-3-642-54407-1.pdf},
+}
+
+@Article{Herzog_2005,
+  author    = {Hans Herzog and Frank Rösch},
+  journal   = {Pharmazie in unserer Zeit},
+  title     = {{PET}- und {SPECT}-Technik: Chemie und Physik der Bildgebung},
+  year      = {2005},
+  month     = {nov},
+  number    = {6},
+  pages     = {468--473},
+  volume    = {34},
+  doi       = {10.1002/pauz.200500144},
+  groups    = {SPECT Bildgebendeverfahren},
+  publisher = {Wiley},
+  url       = {https://www.pro-physik.de/sites/default/files/pdf/articles/2018-11/prophy18620article_ISSART18620DE.pdf},
+}
+
+@Article{,
+  title  = {Gammakamera Single-Photon-Emissions-Computer-Tomographie},
+  groups = {SPECT Bildgebendeverfahren},
+  url    = {https://www.oth-aw.de/files/oth-aw/Labore/WI/X-Ray_and_Molecular-Imaging/Plakat_Gammakamera.pdf},
+}
+
+@Article{Leussler2003,
+  author  = {Christoph Leussler, Torsten Solf, Gereon Vogtmeier, Herfried Wieczorek},
+  journal = {Physik Journal},
+  title   = {Detektoren in der bildgebenden Diagnostik},
+  year    = {2003},
+  groups  = {SPECT Bildgebendeverfahren},
+  url     = {https://www.pro-physik.de/sites/default/files/pdf/articles/2018-11/prophy18620article_ISSART18620DE.pdf},
+}
+
+@Article{,
+  groups = {SPECT Bildgebendeverfahren},
+  url    = {https://www.dicomstandard.org/about-home},
+}
+
+@Article{Mildenberger_2005,
+  author    = {P. Mildenberger and B. Wein and H.-P. Bursig and M. Eichelberg},
+  journal   = {Der Radiologe},
+  title     = {Aktuelle Entwicklungen von {DICOM} und {IHE}},
+  year      = {2005},
+  month     = {aug},
+  number    = {8},
+  pages     = {682--689},
+  volume    = {45},
+  doi       = {10.1007/s00117-005-1242-x},
+  groups    = {SPECT Bildgebendeverfahren},
+  publisher = {Springer Science and Business Media {LLC}},
+  url       = {https://link.springer.com/content/pdf/10.1007/s00117-005-1242-x.pdf},
+}
+
+@Article{Kuhl_1963,
+  author    = {David E. Kuhl and Roy Q. Edwards},
+  journal   = {Radiology},
+  title     = {Image Separation Radioisotope Scanning},
+  year      = {1963},
+  month     = {apr},
+  number    = {4},
+  pages     = {653--662},
+  volume    = {80},
+  doi       = {https://doi.org/10.1148/80.4.653},
+  groups    = {SPECT Bildgebendeverfahren},
+  publisher = {Radiological Society of North America ({RSNA})},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:Hirntumore\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:SPECT Bildgebendeverfahren\;0\;1\;0x8a8a8aff\;\;\;;
+}

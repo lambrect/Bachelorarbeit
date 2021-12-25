@@ -1,0 +1,60 @@
+\chapter{Theoretische Grundlagen}
+
+\section{Gliome}
+
+In Deutschland erkrankten etwa 3.460 Frauen und 3.970 Männer an bösartigen Hirntumoren, auch hochmaligne Gliome genannt \cite{ZfkD17.12.2019}. Sie entstehen aus bösartigen veränderten Zellen von Gehirn und Rückenmark und werden deshalb auch als primäre Hirntumore bezeichnet. Primäre Hirntumore werden unterschieden in Astrozytome, Oligodendrogliome und Ependymome. Mit ca. 75\%, sind die Glioblastome die am häufigsten vertretene Tumorgruppe und stammen aus den astrozytären Gliomen ab. Die WHO teilt die Gliome in vier verschiedene Malignitätsgrade, nach biologischem Verhalten und nach ihrer Histopathologie ein. Trotz Forschung ist der Auslöser der verschiedenen Hirntumoren weitgehend unklar. 
+\\Behandelt werden die Patienten erst nach der Abwägung von Risiken und Nutzen. Im Falle, dass der Tumor operativ erreichbar ist und ohne neurologisches Defizit entfernt werden kann, wird eine möglichst vollständige neurochirurgische Resektion (Operation) angesetzt. Im Falle eins Grad I Glioms, ist eine kurative Resektion, also eine Operation mit anschließender vollständiger Heilung möglich. Anschließend wird je nach Grad des Tumors und des Ausmaßes der Resektion, die postoperative Strahlentherapie (RT) und die medikamentöse Tumortherapie eingesetzt \cite{Hofer03.2019}. 
+\\Nur ungefähr 20\% der erkrankten Frauen und Männer überleben fünf Jahre. Noch schlechter sehen die Überlebenschancen bei einem Krankheitsrückfall (Rezidiv) aus. Selbst bei Tumor befreiten Patienten, kommt es meist zu unerwünschten Nebenwirkungen und Spätschäden. Jedoch wurden erst kürzlich erfolgversprechende Tests von Impfungen an Hirntumoren durchgeführt. Diese soll auf bestimmte Mutationen der diffusen Gliome abzielen. Dabei erreichte der Impfstoff eine 93/% erwartete Immunreaktion Quote bei 30 Patienten.
+\\Zur Erkennung von Tumoren kommen in der Medizin bildgebende Verfahren zum Einsatz.
+
+\section{Bildgebende Verfahren}
+
+Es gibt zahlreiche bildgebende Verfahren in der Medizin (siehe Tabelle \ref{Bildgebende_Verfahren}). Jedoch beschränkt sich diese Arbeit auf die nuklearmedizinische Bildgebung mit Hauptaugenmerk auf das Thallium-SPECT Verfahren, aufgrund der Herkunft des Datensatzes für das Deep Learning Verfahren.
+
+\begin{figure} %[hbtp]
+	\centering
+	\includegraphics{images/Bildgebende_Verfahren.png}
+	\caption{Übersicht über die verschiedenen bildgebenden Verfahren in der Medizin}
+	\label{Bild1}
+\end{figure}
+
+
+\subsection{Nuklearmedizinische Bildgebung}
+
+Das Thallium-Single-Photon-Emission-Computer-Tomographie Verfahren (SPECT) gehört mit der Szintigraphie und der Positronen-Emissions-Tomographie (PET) zu den nuklearmedizinischen bildgebenden Diagnostiken und zeigen die Radioaktivitätsverteilung auf. Dreidimensionale Bilder können durch das SPECT und PET Verfahren erzeugt werden. Zu Beginn der Untersuchung wird bei allen Verfahren ein Radiopharmakon in den Körper gebracht. Durch Injektion in die Blutbahn, durch Schlucken in den Magen-Darm-Trakt oder durch das Inhalieren über die Lunge wird das Medikament in die Blutbahn befördert. (Kap 8.3) Anschließend wird die Verteilung der Radioaktivität mit geeigneten Messgeräten aufgenommen und am Computer dargestellt.
+
+\subsection{Radionuklid}
+
+Das Wort Radionuklid setzt sich aus den lateinischen Wörtern ?radiare? (strahlen) und ?nucleus? (Zellkern) zusammen und zeigt die Aktivität des Zellkerns auf. Der Zellkern emittiert Strahlung aus dem Kern heraus, aufgrund des Ungleichgewicht der Kernmasse. Im neutralen Atom stimmt die Anzahl der Elektronen mit der Anzahl der Neutronen in der Hülle überein. Isotope sind Atomkerne mit gleicher Protonenzahl aber unterschiedlicher Anzahl von Neuronen. Radioaktive Isotope werden über einen Kernreaktor, durch die Kernspaltung oder den Neutronenbeschuss gewonnen. Ein Teilchenbeschleuniger, z.B. am Zyklotron, kann durch den Beschuss mit geladenen Teilchen radioaktive Isotope erschaffen. (Formel Aktivität)?
+\\Da die Radionuklide meist eine Halbwertszeit zwischen einigen Sekunden und mehreren Stunden haben, werden sie direkt in den Kliniken mit sogenannte ?Baby-Zyklotrons? produziert. Diese Geräte passen heute in einen 30m$^2$ Raum. Anschließend wird das Radionuklid eventuell mit einer nichtradioaktiven Substanz oder einem Pharmazeutikum vermischt (Radiopharmakon) oder direkt in den Körper gegeben. Je nach Scanvariante gibt es unterschiedlich typisch eingesetzte Radionuklide. Für das SPECT Verfahren werden hauptsächlich Technetium-99m, Iod-123 und Thallium-201 genutzt.
+
+\subsection{SPECT}
+
+Die Single-Photon-Emissions-Computer-Tomographie wurde bereits zehn Jahre vor der klinischen Anwendung der Röntgen-Computer-Tomographie (CT) von Kuhl u. Edwards 1963 beschrieben\cite{Kuhl_1963}.
+Diese hatten zu Beginn jedoch nicht den Erfolg, da die räumliche Auflösung noch zu gering war. Im Gegensatz zu der heutigen SPECT-Untersuchung in welcher der Patient liegend von beweglichen Kameras gescannt wird, musste der Patient sich vor der Kamera drehen \cite{Herzog_2005}.
+\\
+Es gibt verschiedene SPECT-Systeme, mit einem und bis zu drei Messköpfen auf einem kreisförmigem oder elliptischem Orbit (siehe Tabelle \ref{SPECT-Systeme}). 
+Bei den Doppelkopf-SPECT-Systemen stehen die Gamma-Kameras auch oft in einem 90° Winkel zueinander. Systeme mit mehreren Messköpfen verbessern das Signal-Rausch-Verhältnis, da mehrere Projektionen gleichzeitig aufgenommen werden können. Mit einem elliptischen Orbit kann die räumliche Auflösung verbessert werden, weil der Abstand zwischen Detektor und Quelle nochmals verringert wird.
+\begin{figure} %[hbtp]
+	\centering
+	\includegraphics{images/SPECT-Systeme.png}
+	\caption{SPECT-Systeme}
+	\label{SPECT-Systeme}
+\end{figure}
+
+Zusammen setzt sich das SPECT-System aus Untersuchungsliege, den Gammakameras und einer Recheneinheit. 
+Die Gamma-Kamera baut sich aus den hintereinander angeordneten Kollimatoren, Szintillationskristall, Photomultiplier und Widerstandsmatrix auf. Anschließend wird das Signal an der Widerstandsmatrix nochmals verarbeitet und mit Rekonstruktionsalgorithmen am Computer dargestellt. Im Folgenden werden die Elemente nochmal genauer betrachtet.
+\\
+Der mechanische Kollimator sorgt dafür, dass nur Gamma-Quanten weitergeleitet werden, die senkrecht eintreffen. Durch die Vielzahl paralleler Löcher, auf dem aus Blei bestehende Kollimator-Platte, werden alle anderen Strahlen absorbiert. Je nach Ziel des Scans, kann eine "High Resolution"' oder "High Sensitivity"' Platte eingesetzt werden. 
+Der Szintillationskristall besteht meist aus Natriumjodid mit Thallium (NaI(Tl)) oder aus Wismutgermanat (BGO). Der Kristall absorbiert den Gamma-Quant und erzeugt dabei sichtbare Photonen. Dabei ist die Zahl der Photonen proportional zur abgegebenen Energie des Gamma-Quants. 
+Durch ein Bündel aus Lichtleitfasern wird das Licht an die Photokathode eines Photomultipliers übermittelt. Innerhalb dessen wird das Lichtsignal in einen elektrischen Impuls.
+Das Signal wird über die Widerstandsmatrix auf vier Ausgänge verteilt und über den Computer berechnet. Die typischen Matrizen liegen bei 128*128.
+
+
+
+\section{DICOM}
+
+"Digital Imaging and Communication in Medicine"' (DICOM) ist ein seit 1993 etablierter Standard für den Datenaustausch von diagnostischen und therapeutischen Informationen, medizinischen Bildern und assoziierter Daten. In solch einer Datenstruktur werden medizinisch erfasste Bilder aus fast allen Geräten der Radiologie, der kardiologischen Bildgebung und der Strahlentherapie (Röntgen, CT, SPECT, MRT usw.) implementiert, sowie die dazugehörigen Informationen. \cite{Mildenberger_2005}
+
+\section{Deep Learning}
+

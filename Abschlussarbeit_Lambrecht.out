@@ -1,0 +1,29 @@
+\BOOKMARK [0][-]{chapter.1}{Einleitung und Problemstellung}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Ziele und Forschungsfragen}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Methodische Vorgehensweise}{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Theoretische Grundlagen}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Gliome}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{Bildgebende Verfahren}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.1}{Nuklearmedizinische Bildgebung}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.2}{Radionuklid}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.3}{SPECT}{section.2.2}% 10
+\BOOKMARK [1][-]{section.2.3}{DICOM}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.4}{Deep Learning}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Weitere Kapitel}{}% 13
+\BOOKMARK [0][-]{chapter.4}{LaTeX-Bausteine}{}% 14
+\BOOKMARK [1][-]{section.4.1}{Abschnitt}{chapter.4}% 15
+\BOOKMARK [2][-]{subsection.4.1.1}{Unterabschnitt}{section.4.1}% 16
+\BOOKMARK [1][-]{section.4.2}{Abbildungen und Tabellen}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.3}{Mathematische Formel}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.4}{S\344tze, Lemmas und Definitionen}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.5}{Fu\337noten}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.6}{Literaturverweise}{chapter.4}% 21
+\BOOKMARK [0][-]{chapter.5}{Beispiel-Kapitel}{}% 22
+\BOOKMARK [1][-]{section.5.1}{Warum existieren unterschiedliche Konsistenzmodelle?}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.2}{Klassifizierung eines Konsistenzmodells}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.3}{Linearisierbarkeit \(atomic consistency\)}{chapter.5}% 25
+\BOOKMARK [0][-]{chapter.6}{Zusammenfassung und Ausblick}{}% 26
+\BOOKMARK [0][-]{chapter*.8}{Literaturverzeichnis}{}% 27
+\BOOKMARK [0][-]{appendix.A}{Glossar}{}% 28
+\BOOKMARK [0][-]{appendix.B}{Erkl\344rung der Kandidatin / des Kandidaten}{}% 29
